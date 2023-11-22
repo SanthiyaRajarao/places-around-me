@@ -35,6 +35,7 @@ Run the Program
 </html>
 
 ## Output:
+![santhiya](https://github.com/SanthiyaRajarao/places-around-me/assets/144979216/61a8076f-f9e6-4f35-91eb-367099cb21b1)
 ![output](./murugantheatre.png)
 ![output](./CR.png)
 ![output](./sai.png)
