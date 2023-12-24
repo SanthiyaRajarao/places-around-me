@@ -19,8 +19,6 @@ Run the Program
     <body>
         <h1>
         Imagemaps Demo
-            <img src="santhiya.png" usemap="#image_map">
-
             <map name="image_map">
                 <area alt="murugantheatre" title="murugantheatre" href="murugantheatre.html" coords="432,61,523,148" shape="rect">
                 <area alt="crregency" title="crregency" href="crregency.html" coords="513,135,542,193" shape="rect">
